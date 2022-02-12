@@ -9,11 +9,12 @@ Sophomore at DCR University of Science and Technology currently pursuing my Bach
 
 </h1>
 
+![Lakshay Nasa's Activity Graph](https://activity-graph.herokuapp.com/graph?username=lakshay-nasa&theme=react-dark)
+
 ## MY ToolKit
-<br>
+
 
 ### Languages :
-<br>
 
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,7 +25,6 @@ Sophomore at DCR University of Science and Technology currently pursuing my Bach
 <br>
 
 ### Frameworks :
-<br>
 
 ![NODEjs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -33,7 +33,6 @@ Sophomore at DCR University of Science and Technology currently pursuing my Bach
 <br>
 
 ### DevOps & Cloud Tools :
-<br>
 
 ![Gcloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
