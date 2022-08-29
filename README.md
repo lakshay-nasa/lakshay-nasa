@@ -71,8 +71,6 @@ Hola!😉 I'm Lakshay
 
 <h2 align = "center">
 
-[![Lakshay Nasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshay-nasa)](https://github.com/lakshay-nasa/)
-
-[![Lakshay Nasa's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshay-nasa)](https://github.com/lakshay-nasa/)
-
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=lakshay-nasa">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay-nasa">
 </h2>
