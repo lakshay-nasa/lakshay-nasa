@@ -15,6 +15,16 @@ Hola!😉 I'm Lakshay
 
 <br>
 
+## 👨‍💻 About Me
+
+- 🏫 I'm a pre-final year B.Tech student from DCRUST University, India.
+- 👨‍🎓 I'm an open-source advocate, DevOps Learner and full-stack developer.
+- 🌱 I'm currently learning Go.
+- 🤝 I'm open to collaboration.
+- 🎯 Reach me at **lakshay1717@gmail.com**
+
+<br>
+
 ## 🛠️ MY ToolKit ->
 
 
