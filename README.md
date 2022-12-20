@@ -10,7 +10,7 @@ Hola!😉 I'm Lakshay
 <a href="https://linkedin.com/in/lakshaynasa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </h2>
-/graph?username=Ashutosh00710
+
 ![Lakshay Nasa's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=lakshay-nasa&theme=react-dark)
 
 <br>
