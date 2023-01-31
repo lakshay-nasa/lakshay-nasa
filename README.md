@@ -12,7 +12,7 @@ Hola!😉 I'm Lakshay
 </h2>
 
 <div align = "center">
- <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshay-nasa&theme=dracula" />
+ <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshay-nasa&theme=moonlight" />
 </div>
 
 ## 👨‍💻 About Me
@@ -81,8 +81,8 @@ Hola!😉 I'm Lakshay
 
 <h2 align = "center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=lakshay-nasa&theme=dracula">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay-nasa&theme=dracula">
-<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshay-nasa&theme=dracula">
-<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshay-nasa&theme=dracula">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=lakshay-nasa&theme=dracula">
+<img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay-nasa&theme=dracula">
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshay-nasa&theme=dracula">
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshay-nasa&theme=dracula">
 </h2>
