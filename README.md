@@ -11,9 +11,9 @@ Hola!😉 I'm Lakshay
 
 </h2>
 
-![Lakshay Nasa's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=lakshay-nasa&theme=react-dark)
-
-<br>
+<div align = "center">
+ <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshay-nasa&theme=github_dark" />
+</div>
 
 ## 👨‍💻 About Me
 
